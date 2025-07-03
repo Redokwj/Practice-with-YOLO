@@ -1,0 +1,15 @@
+.venvNew/
+yolov5-env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.vscode/
+
+.DS_Store
+
+*.egg-info/
+dist/
+build/
+
