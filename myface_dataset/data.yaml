@@ -1,5 +1,0 @@
-train: ../myface_dataset/images/train
-val: ../myface_dataset/images/train
-
-nc: 1
-names: ["Taras"]
