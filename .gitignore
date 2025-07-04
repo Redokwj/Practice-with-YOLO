@@ -1,6 +1,7 @@
 .venvNew/
 yolov5-env/
 .vscode/
+myface_dataset/
 
 __pycache__/
 *.py[cod]
